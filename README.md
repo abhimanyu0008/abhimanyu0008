@@ -1,4 +1,4 @@
-## Hi there, I am professional Full-Stack Developer, I enjoy writing code. 
+## Hi there, I am professional Full-Stack Developer and enjoy with writing code. 
 
 
 - 🔭 I’m currently working on Full-Stack Java Developer with DevOps(Java 8, Springboot, Spring Security, JSP, Servlet, Hibernate, Mysql, Postgre, React, Angular, AWS, Docker,Jenkin).
